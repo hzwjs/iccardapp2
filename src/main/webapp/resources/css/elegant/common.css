@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+.comm_search_box{width: 100%;}
+.comm_driver{float:left;width: 97.8%;border:1px solid #e1e1e1;background:#f7f7f7;padding:0 10px;margin-bottom:10px;}
+.l_driver{width: 250px;float:left;}
+.r_driver{margin-top:48px;}
